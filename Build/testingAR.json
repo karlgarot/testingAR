@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "bigliettoAuguri_auroraMeccanicaARWT_2019.4LTS",
+"productVersion": "0.1",
+"dataUrl": "testingAR.data.unityweb",
+"wasmCodeUrl": "testingAR.wasm.code.unityweb",
+"wasmFrameworkUrl": "testingAR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.32f1"
+}
